@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Ex01/Ex01.csproj" Id="a8d79049-8b29-46fc-8d86-e4ce9164153e" />
+  <Project Path="Ex02/Ex02.csproj" Id="2647a845-335f-446b-97a3-58d8c4a1457f" />
   <Project Path="ExercicioArray/ExercicioArray.csproj" />
 </Solution>
