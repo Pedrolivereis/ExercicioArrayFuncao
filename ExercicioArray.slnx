@@ -2,5 +2,6 @@
   <Project Path="Ex01/Ex01.csproj" Id="a8d79049-8b29-46fc-8d86-e4ce9164153e" />
   <Project Path="Ex02/Ex02.csproj" Id="2647a845-335f-446b-97a3-58d8c4a1457f" />
   <Project Path="Ex03/Ex03.csproj" Id="9ff3940d-b521-423f-b217-30c8990eacf1" />
+  <Project Path="Ex04/Ex04.csproj" Id="0ee2fb85-35c9-49b5-85f1-a6c46c8666d6" />
   <Project Path="ExercicioArray/ExercicioArray.csproj" />
 </Solution>
